@@ -1,0 +1,9 @@
+Valigia 1
+Libri_Lettura    1.20    5
+Giaccone    3.50    1
+
+
+Valigia 2
+Camicia    0.50    3
+Pantaloni    1.20    4
+Cambio    1.50    6

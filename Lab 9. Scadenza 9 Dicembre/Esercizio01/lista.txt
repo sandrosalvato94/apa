@@ -1,0 +1,17 @@
+16
+Rasoio 0.150 8
+Medicine 0.300 10
+Cambio 1.500 6
+Fotocamera 0.250 9
+Pantaloni 1.200 4
+Camicia 0.500 3
+Giaccone 3.500 1
+Calcolatrice 0.100 6
+Computer 0.750 10
+Telefonino 0.05 15
+Libri_Studio 1.500 7
+Libri_Lettura 1.200 5
+Penne 0.01 5
+Phon 1.200 10
+Soldi 0.01 20
+Mutande 0.5 10

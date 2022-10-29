@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414491943 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 3. scadenza 28 ottobre\esercizio03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

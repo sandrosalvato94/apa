@@ -1,0 +1,12 @@
+
+Rasoio    0.15      8
+Medicine    0.30      10
+Fotocamera    0.25      9
+Calcolatrice    0.10      6
+Computer    0.75      10
+Telefonino    0.05      15
+Libri_Studio    1.50      7
+Penne    0.01      5
+Phon    1.20      10
+Soldi    0.01      20
+Mutande    0.50      10

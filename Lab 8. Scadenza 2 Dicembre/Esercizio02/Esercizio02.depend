@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1417516579 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 8. scadenza 2 dicembre\esercizio02\tabellasimboli.c
+	"TabellaSimboli.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Item.h"
+
+1417516383 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 8. scadenza 2 dicembre\esercizio02\tabellasimboli.h
+	"Item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1417544771 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 8. scadenza 2 dicembre\esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Item.h"
+	"TabellaSimboli.h"
+
+1417544771 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 8. scadenza 2 dicembre\esercizio02\item.h
+	<stdio.h>
+	<stdlib.h>
+
+1417544771 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 8. scadenza 2 dicembre\esercizio02\item.c
+	"Item.h"
+	<stdio.h>
+	<stdlib.h>
+

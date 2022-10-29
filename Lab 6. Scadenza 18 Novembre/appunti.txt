@@ -1,0 +1,44 @@
+/*if ((*puttesta)->succ == NULL)
+                {
+                    free(*puttesta);
+                    *puttesta = NULL;
+                }
+                else
+                {
+                    putcorr = (tipo_persona *)malloc(sizeof(tipo_persona));
+                    putprec = (tipo_persona *)malloc(sizeof(tipo_persona));
+                    putprec = *puttesta;
+                    for (putcorr = *puttesta; putcorr!= NULL; putcorr = putcorr->succ)
+                    {
+                        if ((strcmp(putcorr->codice, codice_prenotazione) == 0))
+                        {
+                            if (putcorr == *puttesta) /*Se è la testa /
+                            {
+                                putprec = putcorr->succ;
+                                putprec->succ = putprec->succ->succ;
+                                free(putcorr->succ);
+                                break;
+                            }
+                            else
+                            {
+                                if (putcorr->succ == NULL) /*Se è la coda/
+                                {
+                                    putprec->succ = NULL;
+                                    free(putcorr);
+                                    break;
+                                }
+                                else /*Se è in mezzo/
+                                {
+                                    putprec->succ = putprec->succ->succ;
+                                    free(putcorr);
+                                    break;
+                                }
+                            }
+                        }
+                        if(putcorr != *puttesta)
+                        {
+                            putprec = putcorr; /*Ad ogni passo, se non sono in testa, tengo memoria del precedente/
+                        }
+                    }
+
+                } */

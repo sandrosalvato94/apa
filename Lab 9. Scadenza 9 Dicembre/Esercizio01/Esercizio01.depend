@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1417518643 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 9. scadenza 9 dicembre\esercizio01\item.c
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1417518643 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 9. scadenza 9 dicembre\esercizio01\item.h
+	<stdlib.h>
+	<stdio.h>
+
+1417637053 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 9. scadenza 9 dicembre\esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+

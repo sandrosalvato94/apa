@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1412532207 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\esercizi preliminari\esercizio02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

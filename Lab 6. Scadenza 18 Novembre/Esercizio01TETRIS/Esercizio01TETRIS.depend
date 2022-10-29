@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1415972607 source:c:\users\utente\desktop\esercizio01tetris\priorityqueue.c
+	"priorityqueue.h"
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1415970514 c:\users\utente\desktop\esercizio01tetris\priorityqueue.h
+	"item.h"
+
+1415963688 c:\users\utente\desktop\esercizio01tetris\item.h
+
+1415972321 source:c:\users\utente\desktop\esercizio01tetris\queue.c
+	"queue.h"
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1415963688 c:\users\utente\desktop\esercizio01tetris\queue.h
+	"item.h"
+
+1415972321 source:c:\users\utente\desktop\esercizio01tetris\lista.c
+	<stdio.h>
+	"lista.h"
+	"item.h"
+	<stdlib.h>
+	<string.h>
+
+1415972601 c:\users\utente\desktop\esercizio01tetris\lista.h
+	"item.h"
+
+1415972508 source:c:\users\utente\desktop\esercizio01tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"stack.h"
+	"queue.h"
+	"priorityqueue.h"
+	"item.h"
+
+1415970514 c:\users\utente\desktop\esercizio01tetris\stack.h
+	"Item.h"
+
+1415972321 source:c:\users\utente\desktop\esercizio01tetris\stack.c
+	"stack.h"
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1415972321 source:c:\users\utente\desktop\esercizio01tetris\item.c
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1416303645 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\lista.c
+	<stdio.h>
+	"lista.h"
+	"item.h"
+	<stdlib.h>
+	<string.h>
+
+1416250869 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\lista.h
+	"item.h"
+
+1416306179 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\item.h
+
+1416306849 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\priorityqueue.c
+	"priorityqueue.h"
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1416304955 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\priorityqueue.h
+	"item.h"
+
+1416304926 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\queue.c
+	"queue.h"
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1416303944 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\queue.h
+	"item.h"
+
+1416303645 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\stack.c
+	"stack.h"
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+
+1416303645 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\stack.h
+	"Item.h"
+
+1416248700 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\item.c
+	"item.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1416306350 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 6. scadenza 18 novembre\esercizio01tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"stack.h"
+	"queue.h"
+	"priorityqueue.h"
+	"item.h"
+

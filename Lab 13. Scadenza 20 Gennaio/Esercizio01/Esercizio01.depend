@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1421316900 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 13. scadenza 20 gennaio\esercizio01\tabella.c
+	"Tabella.h"
+	<string.h>
+
+1421316890 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 13. scadenza 20 gennaio\esercizio01\tabella.h
+	<stdio.h>
+	<stdlib.h>
+
+1421342164 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 13. scadenza 20 gennaio\esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Grafo.h"
+	"Tabella.h"
+
+1421342164 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 13. scadenza 20 gennaio\esercizio01\grafo.h
+
+1421342465 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 13. scadenza 20 gennaio\esercizio01\grafo.c
+	"Grafo.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"PriorityQueue.h"
+	"Tabella.h"
+
+1421340625 source:c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 13. scadenza 20 gennaio\esercizio01\priorityqueue.c
+	"PriorityQueue.h"
+	<stdio.h>
+	<stdlib.h>
+
+1421340615 c:\users\utente\desktop\politecnico di torino\ii^anno\algoritmi & programmazione\esercizi\lab 13. scadenza 20 gennaio\esercizio01\priorityqueue.h
+
